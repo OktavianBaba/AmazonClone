@@ -18,7 +18,16 @@ function Login() {
 
             <h5>Password</h5>
             <input type='password' />
+
+            <button  className='login__signInButton'>Sign In</button>
         </form>
+
+        <p>
+                    By signing-in you agree to the AMAZON FAKE CLONE Conditions of Use & Sale. Please
+                    see our Privacy Notice, our Cookies Notice and our Interest-Based Ads Notice.
+        </p>
+
+        <button className='login__registerButton'>Create your Amazon Account</button>
       </div>
     </div>
   )
