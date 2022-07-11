@@ -17,7 +17,7 @@ function Login() {
             <input type='text' />
 
             <h5>Password</h5>
-            <input type='text' />
+            <input type='password' />
         </form>
       </div>
     </div>
